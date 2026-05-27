@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuender",
+        "uuid": 17521152,
+        "checksum": "ywuvok"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
